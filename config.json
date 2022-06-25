@@ -1,7 +1,7 @@
 {
     "APIs": {
       "zenz": "https://zenzapis.xyz",
-      "apikey": "YOURAPIKEY"
+      "apikey": "10ae60a776e1"
     },
     "options": {
       "autoRead": true,
@@ -10,11 +10,11 @@
       "limitGame": 20
     },
     "exif": {
-      "packname": "zenzapis",
-      "author": "https://zenzapis.xyz"
+      "packname": "weabot",
+      "author": "ane sendiri"
     },
     "owner": [
-      "62812XXX"
+      "6282288275146"
     ],
     "timezone": "Asia/Jakarta",
     "footer": "Powered by https://zenzapis.xyz"
